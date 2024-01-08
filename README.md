@@ -4,8 +4,8 @@ I'm a passionate Golang engineer with a strong background in developing scalable
 
 ## About Me
 
-- 🌐 Working as a Golang engineer.
-- 💡 I love exploring new technologies and building innovative solutions.
+- Working as a Golang engineer.
+- I love exploring new technologies and building innovative solutions.
 
 ## 🛠️ Technologies & Tools
 
