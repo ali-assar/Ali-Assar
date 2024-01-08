@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Assar! 
 
-I'm a passionate Golang engineer with a strong background in developing scalable and efficient applications. Welcome to my GitHub profile!
+I'm a passionate Golang engineer. Welcome to my GitHub profile!
 
 ## About Me
 
