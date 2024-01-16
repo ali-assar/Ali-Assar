@@ -7,16 +7,6 @@ I'm a passionate Golang engineer. Welcome to my GitHub profile!
 - Working as a Golang engineer.
 - I love exploring new technologies and building innovative solutions.
 
-## 🛠️ Technologies & Tools
-
-- Golang
-- Docker
-- Kubernetes
-- RESTful APIs
-- SQL & NoSQL databases
-- Git
-- Apache Kafka
-- gRPC
 
 ## 📚 I’m currently learning
 
