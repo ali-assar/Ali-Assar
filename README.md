@@ -1,25 +1,16 @@
-# Hi there, I'm Ali Assar! 
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Ali+Assar+A+Golang+Developer)](https://git.io/typing-svg)
+<br><br>
 
-I'm a passionate Golang engineer. Welcome to my GitHub profile!
+<a href="https://www.linkedin.com/in/a-assar/" style="display:inline">
+  <img align="left" alt="akd's Linkdein" width="100px" height="28px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
 
-## About Me
+<a href="mailto:ali.assar@skiff.com">
+  <img  alt="Ali's Email" width="100px" height="28px" src="https://img.shields.io/badge/E M A I L-c20a0a?style=for-the-badge&logo=email&logoColor=white" />
+</a>
 
-- Working as a Golang engineer.
-- I love exploring new technologies and building innovative solutions.
 
-
-## 📚 I’m currently learning
-
-- Microservices
-
-## 💻 Projects
-
-- [Car Rental System](https://github.com/Ali-Assar/car-rental-system): A Golang-based project for managing car rentals.
-
-## 📫 How to reach me
-
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/a-assar/)
-- Email: ali.assar@skiff.com
 
 ## Let's connect!
 
