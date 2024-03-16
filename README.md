@@ -13,7 +13,17 @@
   <img  alt="Ali's resume" width="100px" height="28px" src="https://img.shields.io/badge/Resume-c25a0a?style=for-the-badge&logo=email&logoColor=white" />
 </a>
 
+## My Handnotes
 
+Check out my handnotes on various topics:
+
+<a href="https://github.com/Ali-Assar/docker-handnotes" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-Handnotes-blue" alt="Docker Handnotes">
+</a>
+
+<a href="https://github.com/Ali-Assar/grpc-handnotes" target="_blank">
+  <img src="https://img.shields.io/badge/gRPC-Handnotes-green" alt="gRPC Handnotes">
+</a>
 
 ## Let's connect!
 
