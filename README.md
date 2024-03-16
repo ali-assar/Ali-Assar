@@ -17,13 +17,7 @@
 
 Check out my handnotes on various topics:
 
-<a href="https://github.com/Ali-Assar/docker-handnotes" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-Handnotes-blue" alt="Docker Handnotes">
-</a>
-
-<a href="https://github.com/Ali-Assar/grpc-handnotes" target="_blank">
-  <img src="https://img.shields.io/badge/gRPC-Handnotes-green" alt="gRPC Handnotes">
-</a>
+<a href="https://github.com/Ali-Assar/docker-handnotes" target="_blank"><img src="https://img.shields.io/badge/Docker-Handnotes-blue" alt="Docker Handnotes"></a>&nbsp;<a href="https://github.com/Ali-Assar/grpc-handnotes" target="_blank"><img src="https://img.shields.io/badge/gRPC-Handnotes-green" alt="gRPC Handnotes"></a>
 
 ## Let's connect!
 
