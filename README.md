@@ -10,7 +10,11 @@
 </a>
 
 <a href="https://flowcv.com/resume/9np15evsdu">
-  <img  alt="Ali's resume" width="100px" height="28px" src="https://img.shields.io/badge/Resume-c25a0a?style=for-the-badge&logo=email&logoColor=white" />
+  <img  align="left" alt="Ali's resume" width="100px" height="28px" src="https://img.shields.io/badge/Resume-c25a0a?style=for-the-badge&logo=email&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/ali-assar/">
+  <img alt="leetcode" width="100px" height="28px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
 ## My Handnotes
