@@ -27,7 +27,6 @@ Check out my handnotes on various topics:
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect and chat. Looking forward to meeting fellow developers and enthusiasts!
 
-Happy coding! :) 
 <!---
 Ali-Assar/Ali-Assar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
