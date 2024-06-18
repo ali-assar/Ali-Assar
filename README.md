@@ -1,7 +1,7 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Ali+Assar+a+Happy+Golang+Developer)](https://git.io/typing-svg)
 
-<a href="mailto:ali.assar@skiff.com">
+<a href="mailto:assar.ali@proton.me">
   <img align="left" alt="Ali's Email" width="100px" height="28px" src="https://img.shields.io/badge/E M A I L-c20a0a?style=for-the-badge&logo=email&logoColor=white" />
 </a>
 
