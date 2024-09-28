@@ -21,6 +21,7 @@
 <a href="https://leetcode.com/ali-assar/">
   <img alt="Ali's LeetCode" width="100px" height="28px" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
+<br>
 
 ---
 
@@ -32,10 +33,23 @@ Check out my handnotes on various topics:
   <img align="left"  src="https://img.shields.io/badge/Docker-Handnotes-blue" alt="Docker Handnotes">
 </a>
 <a href="https://github.com/Ali-Assar/grpc-handnotes" target="_blank">
-  <img src="https://img.shields.io/badge/gRPC-Handnotes-green" alt="gRPC Handnotes">
+  <img align="left" src="https://img.shields.io/badge/gRPC-Handnotes-green" alt="gRPC Handnotes">
 </a>
+<br>
 
 ---
+
+### Comprehensive Guide to Data Structures and Algorithms with Python and Go
+
+In this repository, I teach various data structures and algorithms. There is a markdown file in each section of the repository to explain the algorithm or data structure, along with code examples in Python and Go.
+
+<a href="https://github.com/ali-assar/algorithm_and_data_structure">
+   <img align="left" src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-Go%20%7C%20Python-blue?style=for-the-badge&logo=github" alt="Data Structures and Algorithms (Go | Python)">
+</a>
+<br>
+
+---
+
 
 ### 🤝 Let's Connect!
 
