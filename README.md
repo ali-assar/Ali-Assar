@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Ali+Assar,+a+Happy+Golang+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&pause=200&color=35B7F1&width=850&height=45&lines=I'm+Ali+Assar,+Passionate+about+Go,+Coding,+and+Continuous+Learning)](https://git.io/typing-svg)
 
 ---
 
