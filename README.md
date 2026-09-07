@@ -1,55 +1,72 @@
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Ali Assar 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&pause=200&color=35B7F1&width=850&height=45&lines=I'm+Ali+Assar,+Passionate+about+Go,+Coding,+and+Continuous+Learning)](https://git.io/typing-svg)
+### Industrial Software Engineer
 
----
+**Go · C/C++ · Industrial Protocols · Distributed Systems · Embedded Systems**
 
-### 🌐 Connect with Me
+I build software across **IT and OT environments**, with a focus on industrial automation,
+energy management, substation systems, communication protocols, and reliable distributed systems.
 
-<a href="mailto:assar.ali@proton.me">
-  <img align="left" alt="Ali's Email" width="100px" height="28px" src="https://img.shields.io/badge/E M A I L-c20a0a?style=for-the-badge&logo=email&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/a-assar/" style="display:inline">
-  <img align="left" alt="Ali's LinkedIn" width="100px" height="28px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-</a>
-
-<a href="https://flowcv.com/resume/9np15evsdu">
-  <img align="left" alt="Ali's Resume" width="100px" height="28px" src="https://img.shields.io/badge/Resume-c25a0a?style=for-the-badge&logo=resume&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/ali-assar/">
-  <img alt="Ali's LeetCode" width="100px" height="28px" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
-<br>
+My background in **Electrical Engineering** and professional software development lets me work
+across the stack — from industrial devices and protocol communication to backend services,
+databases, messaging, and distributed architectures.
 
 ---
 
-### 📚 My Handnotes
+## ⚙️ What I Work On
 
-Check out my handnotes on various topics:
-
-<a href="https://github.com/Ali-Assar/docker-handnotes" target="_blank">
-  <img align="left"  src="https://img.shields.io/badge/Docker-Handnotes-blue" alt="Docker Handnotes">
-</a>
-<a href="https://github.com/Ali-Assar/grpc-handnotes" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/gRPC-Handnotes-green" alt="gRPC Handnotes">
-</a>
-<br>
+- 🔌 **Industrial & OT Software** — Substation automation, EMS, RTUs, device integration
+- 📡 **Industrial Protocols** — IEC 61850, IEC 60870-5-101/103/104, DNP3, Modbus, SNMP, SPA
+- 🖥️ **Backend & Distributed Systems** — Go, gRPC, NATS/JetStream, Kafka, PostgreSQL, Redis
+- 🔧 **Embedded & Edge Systems** — RTU software, hardware/software integration, industrial communication
+- 🐧 **Systems Engineering** — Linux, networking, concurrency, reliability, fault recovery
 
 ---
 
-### Comprehensive Guide to Data Structures and Algorithms with Python and Go
+## 🧰 Technology
 
-In this repository, I teach various data structures and algorithms. There is a markdown file in each section of the repository to explain the algorithm or data structure, along with code examples in Python and Go.
+**Languages**
 
-<a href="https://github.com/ali-assar/algorithm_and_data_structure">
-   <img align="left" src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-Go%20%7C%20Python-blue?style=for-the-badge&logo=github" alt="Data Structures and Algorithms (Go | Python)">
-</a>
-<br>
+`Go` `C` `C++` `Python` `SQL`
+
+**Industrial & OT**
+
+`IEC 61850` `IEC 60870-5-101` `IEC 60870-5-103` `IEC 60870-5-104`
+`DNP3` `Modbus TCP/RTU` `SNMP` `SPA` `EMS` `Substation Automation`
+
+**Backend & Distributed Systems**
+
+`gRPC` `REST` `NATS/JetStream` `Kafka` `WebSocket`
+`PostgreSQL` `Redis` `MongoDB`
+
+**Systems & Infrastructure**
+
+`Linux` `Docker` `Kubernetes` `Git` `TCP/IP`
+
+**Observability**
+
+`Prometheus` `Grafana`
 
 ---
-<!---
-Ali-Assar/Ali-Assar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🏭 Current Focus
+
+I'm currently deepening my work in:
+
+- Linux systems programming and networking
+- Industrial protocol internals and observability
+- IEC 60870-5-104 and IEC 61850
+- Distributed systems and reliability
+- Embedded and edge software for industrial systems
+- OT security
+
+I'm also building new open-source engineering projects around these areas.
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Assar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-assar/)
+[![Email](https://img.shields.io/badge/Email-assar.ali%40proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:assar.ali@proton.me)
+[![Resume](https://img.shields.io/badge/Resume-FlowCV-2F5BEA?style=flat)](https://flowcv.com/resume/9np15evsdu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ali--assar-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/ali-assar/)
